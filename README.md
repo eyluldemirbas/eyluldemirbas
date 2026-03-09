@@ -34,7 +34,7 @@ data analysis
 
 <p align="center">
 
-<a href="https://linkedin.com/in/eylul-demirbas">
+<a href="https://linkedin.com/in/eylül-demirbaş">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
 </a>
 <br>
