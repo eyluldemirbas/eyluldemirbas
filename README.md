@@ -12,7 +12,7 @@ Physician exploring computation
 
 ---
 
-## Technologies
+## Technologies (Currently In Progress)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=kotlin,js,androidstudio,git,github" />
