@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="github banner.jpg" width="100%" />
-</p>
-
-<p align="center">
 Physician exploring computation
 </p>
 
