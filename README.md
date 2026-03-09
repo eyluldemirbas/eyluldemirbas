@@ -46,11 +46,11 @@ LinkedIn
 
 <p align="center">
 
-<a href="[https://kikoxp.com/eylul_demirbas]">
-<img src="[https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/9b/6b/e39b6b72-17d0-f983-90df-7a7fbd00853e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg]" width="32"/>
+<a href="https://kikoxp.com/eyluldemirbas">
+<img src="https://img.icons8.com/color/48/stethoscope.png" width="32"/>
 </a>
 <br>
-KiKo
+KiKoXP
 
 <p align="center">
 
