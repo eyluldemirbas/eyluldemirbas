@@ -42,7 +42,7 @@ LinkedIn
 
 <p align="center">
 
-<a href="https://kikoxp.com/eylul-demirbas">
+<a href="https://kikoxp.com/eylul_demirbas">
 <img src="https://img.icons8.com/color/48/stethoscope.png" width="32"/>
 </a>
 <br>
